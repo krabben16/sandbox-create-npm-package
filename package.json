@@ -1,0 +1,19 @@
+{
+  "name": "@krabben16/test-create-npm-package",
+  "version": "0.0.1",
+  "description": "npmパッケージを作成する手順を確認するためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krabben16/test-create-npm-package.git"
+  },
+  "author": "krabben16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krabben16/test-create-npm-package/issues"
+  },
+  "homepage": "https://github.com/krabben16/test-create-npm-package#readme"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "@krabben16/test-create-npm-package",
+  "name": "@krabben16/sandbox-create-npm-package",
   "version": "0.0.2",
   "description": "npmパッケージを作成する手順を確認するためのリポジトリ",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krabben16/test-create-npm-package.git"
+    "url": "git+https://github.com/krabben16/sandbox_create_npm_package.git"
   },
   "author": "krabben16",
   "license": "ISC",
